@@ -27,3 +27,9 @@ This project was developed as part of a UX learning initiative, with a primary g
 
 This project serves as an introduction to UX design, prototyping, and motion design, helping to build foundational skills in interactive application development.
 
+
+Below here is the recoridng of the fitness app which includes iconography animations. When clicked on these icons they move with animated aspects to the buttons. Each of these buttons have have their own animated feature. 
+
+https://github.com/user-attachments/assets/c2354b3b-96ee-404e-9f14-8581c0645642
+
+
